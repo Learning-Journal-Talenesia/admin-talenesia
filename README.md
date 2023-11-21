@@ -22,10 +22,7 @@
     - [Installation](#installation)
     - [Running the Application](#running-the-application)
   - [API](#api)
-    - [Video API](#video-api)
-    - [Product API](#product-api)
-    - [Comment API](#comment-api)
-    - [Submit Comment API](#submit-comment-api)
+    - [Auth API](#auth-api)
   - [Database Schema](#database-schema)
 
 ## Introduction
